@@ -1,0 +1,22 @@
+{
+    "name": "atom-solarized",
+    "displayName": "atom-solarized",
+    "description": "Combines atom dark workbench with solarized dark editor syntax",
+    "version": "0.0.1",
+    "publisher": "dvsekhvalnov",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Atom-Solarized-Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Atom-Solarized-Dark-color-theme.json"
+            }
+        ]
+    }
+}
