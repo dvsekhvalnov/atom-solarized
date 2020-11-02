@@ -22,5 +22,5 @@ Not yet published to VSCode marketplace.
 | <img src="https://github.com/dvsekhvalnov/web-static-content/blob/master/atom-solarized/js-syntax.png?raw=true" width="400" alt="JS Syntax" />  | <img src="https://github.com/dvsekhvalnov/web-static-content/blob/master/atom-solarized/jsx-syntax.png?raw=true" width="400" alt="JSX Syntax" /> |
 |  Side bar  | Search pane  |
 |  <img src="https://github.com/dvsekhvalnov/web-static-content/blob/master/atom-solarized/side-bar.png?raw=true" width="400" alt="Side bar" />  | <img src="https://github.com/dvsekhvalnov/web-static-content/blob/master/atom-solarized/search-pane.png?raw=true" width="400" alt="Search pane" />  |
-|  Quick open  | Get samples easily  |
+|  Quick open  | |
 | <img src="https://github.com/dvsekhvalnov/web-static-content/blob/master/atom-solarized/quick-open.png?raw=true" width="400" alt="Quick open" /> | |
